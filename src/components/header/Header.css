@@ -1,0 +1,9 @@
+.bg-light {
+    background-color: #66bd63!important;
+}
+.navbar-text {
+    font-size: 36px;
+}
+.navbar-light .navbar-text {
+    color: rgba(255, 255, 255, 0.815);
+}

@@ -1,0 +1,59 @@
+.hostname {
+  margin-top: 2%;
+  text-align: center;
+}
+.coin {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
+.coin img {
+  width: 150px;
+  margin: 10px;
+}
+
+.coin .one {
+  background-color: #ffffff00;
+  border: none;
+}
+.coin .two {
+  background-color: #ffffff00;
+  border: none;
+}
+.coin .one img:active {
+  transform: scale(0.8);
+}
+.coin .two img:active {
+  transform: scale(0.8);
+}
+.result {
+  margin-top: 2%;
+  text-align: center;
+}
+.select {
+  margin-top: 5%;
+  text-align: center;
+}
+.select button {
+  width: 100px;
+  height: 50px;
+  margin: 5px;
+}
+.select button:hover {
+  transform: scale(1.1);
+}
+.total {
+  margin-top: 2%;
+  text-align: center;
+}
+.random {
+  text-align: center;
+  margin-top: 2%;
+}
+.random button {
+  width: 100px;
+  height: 50px;
+}
+.random button:hover {
+  transform: scale(1.1);
+}
